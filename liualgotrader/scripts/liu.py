@@ -433,3 +433,6 @@ def main_cli() -> None:
         show_usage()
 
     exit(0)
+
+
+main_cli()
